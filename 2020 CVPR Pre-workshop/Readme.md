@@ -1,4 +1,4 @@
-# CVPR论文分享会讲者论文连接
+# CVPR论文分享会讲者论文下载链接
 
 ### 宋广录
 [Revisiting the Sibling Head in Object Detector](https://arxiv.org/pdf/2003.07540.pdf)
